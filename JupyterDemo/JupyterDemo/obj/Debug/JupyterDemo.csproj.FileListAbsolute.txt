@@ -1,0 +1,6 @@
+c:\users\高熙熙\source\repos\JupyterDemo\JupyterDemo\bin\Debug\JupyterDemo.exe.config
+c:\users\高熙熙\source\repos\JupyterDemo\JupyterDemo\bin\Debug\JupyterDemo.exe
+c:\users\高熙熙\source\repos\JupyterDemo\JupyterDemo\bin\Debug\JupyterDemo.pdb
+c:\users\高熙熙\source\repos\JupyterDemo\JupyterDemo\obj\Debug\JupyterDemo.csproj.CoreCompileInputs.cache
+c:\users\高熙熙\source\repos\JupyterDemo\JupyterDemo\obj\Debug\JupyterDemo.exe
+c:\users\高熙熙\source\repos\JupyterDemo\JupyterDemo\obj\Debug\JupyterDemo.pdb

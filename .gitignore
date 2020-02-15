@@ -1,0 +1,9 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/AbstractFactory/AbstractFactoryDemo/AbstractFactoryDemo/bin/Debug
+/AbstractFactory/AbstractFactoryDemo/AbstractFactoryDemo/JupyterData
+/AbstractFactory/AbstractFactoryDemo/AbstractFactoryDemo/JupyterServices
+/AbstractFactory/AbstractFactoryDemo/AbstractFactoryDemo
+/AbstractFactory/AbstractFactoryDemo/.vs/AbstractFactoryDemo/v15
